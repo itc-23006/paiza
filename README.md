@@ -1,1 +1,1 @@
-# paiza
+[korekusyon](korekusyon.png)# paiza
